@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Tết này đi chơi với tớ nhé <3 ",
+  titleHeader: "Tết đi chơi với tớ nhé :3",
   descriptionHeader:
-    "Thoát ra mà không trả lời là đồng ý đấy ^^",
+    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Đi chơi với tớ có phải vui không",
-  descriptionModar::
-      'Đi chơi Tết với tớ có phải vui hơn không ^^ </br> 2 người bao giờ chả vui hơn 1 người :))',
+  titleModar: "Cảm ơn cậu vì đồng ý",
+  descriptionModar:
+    'Đi chơi với tớ vui lắm cậu nhỉ ^^ </br> Hy vọng chúng ta sẽ có buổi đi chơi vui vẻ </br> "Hãy nhớ mặc đẹp hôm đấy nhé cậu </br>  Chúc cậu năm mới vui vẻ,làm người yêu tớ nhé <3 "',
 };
